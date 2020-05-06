@@ -1,6 +1,6 @@
 layout: page
 title: "ToT App Support"
-permalink: /Apps/ToTAppSupport
+permalink: /Apps/ToTAppSupport/
 
 ## Another Page
 
